@@ -1,0 +1,500 @@
+  223  ks
+  224  ls
+  225  xd-shell
+  226  xd-singlenode
+  227  cf apps
+  228  ps -ef | grep -i xd
+  229  pwd
+  230  cd ..
+  231  ls
+  232  pwd
+  233  cd ssa*
+  234  ls
+  235  cd Downloads
+  236  ls
+  237  cd citytest
+  238  ls
+  239  cd src
+  240  ls
+  241  cd main
+  242  ls
+  243  cd java
+  244  ls
+  245  pwd
+  246  cd ..
+  247  pwd
+  248  pwd
+  249  ls -al
+  250  cd java
+  251  ks
+  252  ls -al
+  253  pwd
+  254  ls
+  255  ls-al
+  256  ls -al
+  257  ls -lrt
+  258  ls
+  259  cd ..
+  260  ls
+  261  cd ..
+  262  ls
+  263  cd ..
+  264  pwd
+  265  ls
+  266  pwd
+  267  cd ..
+  268  rm -r citytest
+  269  ls
+  270  rm -r citytest
+  271  ls
+  272  pwd
+  273  cd ..
+  274  cd Documents
+  275  ls
+  276  ls -al workspace
+  277  cd workspace
+  278  ls
+  279  cd ss-citytest
+  280  ls
+  281  ls -al
+  282  cd ..
+  283  ls
+  284  pwd
+  285  pwd
+  286  ls
+  287  ls -al
+  288  rm -r ss-citytest
+  289  ls -lrt
+  290  pwd
+  291  ls
+  292  cd CityTest
+  293  ls -lrt
+  294  pwd
+  295  ls -al ../../downloads/citytest
+  296  pwd
+  297  pwd
+  298  ls -al
+  299  pwd
+  300  ls
+  301  ls -al
+  302  pwd
+  303  yum
+  304  pwd
+  305  pwd
+  306  ls
+  307  cd ..
+  308  ls
+  309  cd ..
+  310  ls
+  311  cpwd
+  312  cd pcf*
+  313  ls
+  314  ls -al pcf*
+  315  ls -al
+  316  cd PCF*
+  317  ls
+  318  ls
+  319  mv /Users/ssahadevan/Downloads/New_CF_Technical_Overview_2015_jan_AR.pptx .
+  320  mv PCF*.pdf .
+  321  s
+  322  ls
+  323  mv /Users/ssahadevan/Downloads/PCF_Architecture_v0.01.graffle.pdf .
+  324  mv /Users/ssahadevan/Downloads/PCF_vs_OSS_CF_Slides_Final\ \(1\).pptx .
+  325  ls
+  326  mv /Users/ssahadevan/Downloads/Pivotal\ Intro\ for\ MasterCard\ IPS\ Response\ FINAL.pptx .
+  327  mv /Users/ssahadevan/Downloads/Spotlight_Webinar_Pivotal_CF_vs_Iaas_Orchestration_tools_webinar_Final.pptx .
+  328  ls
+  329  pwd
+  330  ls
+  331  cd Downloads
+  332  ls
+  333  cd citytest
+  334  ls
+  335  ls -al src
+  336  ls
+  337  ls
+  338  cat pom.xml
+  339  stream
+  340  xd-shell
+  341  xd-singlenode
+  342  ls -al
+  343  cf apps
+  344  ls -al
+  345  pwd
+  346  pwd
+  347  cf apps
+  348  pwd
+  349  cd ..
+  350  ls
+  351  pwd
+  352  ls
+  353  keytool
+  354  keytool -genkey -alias sharathma -keypass 9344shar
+  355  cd
+  356  ls -lrt
+  357  cd -
+  358  ls -lrt
+  359  ls -al *key*
+  360  ls -al *Key*
+  361  keytool -list
+  362  keytool -export -alias sharathma -file sharath.cer
+  363  ls -lrt
+  364  keytool
+  365  keytool -certreq -alias sharathma -file sharath.csr
+  366  ls -lrt
+  367  ls -lrt
+  368  cat sharath.csr
+  369  mv sharath.csr sharath.pem
+  370  keytool –keystore clientkeystore –certreq –alias client –keyalg rsa 
+  371  keytool keytool –keystore clientkeystore –certreq –alias client –keyalg rsa 
+  372  history
+  373  ls -lrt
+  374  history
+  375  keytool -list
+  376  eytool -certreq         -alias domain         -file domain.csr 
+  377  keytool -certreq -alias ssma -file ssma.csr
+  378  keytool -certreq -alias sharathma -file ssma.csr
+  379  pwd
+  380  man keytool
+  381  h
+  382  history
+  383  cf apps
+  384  cf apps
+  385  cd list
+  386  cd logs
+  387  history
+  388  cf list
+  389  cf list
+  390  cf list
+  391  cf apps
+  392  cf help
+  393  cf api
+  394  cf apps
+  395  cf cups 
+  396  cf apps
+  397  cf logout
+  398  cf login api.24x.edu.pivotal.io
+  399  cf apps
+  400  xx•cf login -a api.system.24x.edu.pivotal.io --skip-ssl-validation –u admin[D
+  401  cf login -a api.system.24x.edu.pivotal.io --skip-ssl-validation –u admin
+  402  cf apps
+  403  pwd
+  404  cd Documents
+  405  ks
+  406  ls
+  407  cd workspace
+  408  ls
+  409  cd ..
+  410  cd ..
+  411  ls
+  412  cd Downloads
+  413  ls
+  414  ls -al Stock*
+  415  ls -al pcfdemo
+  416  cf pps
+  417  cf apps
+  418  ls
+  419  pwd
+  420  cd ..
+  421  cd Documents
+  422  s
+  423  ls
+  424  cd workspace
+  425  ls
+  426  cd Stock*
+  427  ls
+  428  cd target
+  429  ls -al
+  430  cf push stockAnalyzer-0.1.0.jar
+  431  ls -al
+  432  ls -lrt
+  433  pwd
+  434  cf push stockAnalyzer-0.1.0.jar
+  435  pwd
+  436  ls
+  437  pwd
+  438  cd
+  439  bosch
+  440  source .bashrc
+  441  bosh
+  442  bosh
+  443  cf apps
+  444  scp
+  445  scp 
+  446  scp 192.168.5.3
+  447  pwd
+  448  Scp tempest@opsmgr.24x.edu.pivotal.io: :/var/tempest/workspaces/default/deployments/p-jenkins*.yml
+  449  scp tempest@opsmgr.24x.edu.pivotal.io: :/var/tempest/workspaces/default/deployments/
+  450  c
+  451  scp tempest@opsmgr.24x.edu.pivotal.io
+  452  Scp tempest@opsmgr.24x.edu.pivotal.io:/var/tempest/workspaces/default/deployments/p-jenkins-96b5937d2a4793b9e6d8.yml
+  453  scp tempest@opsmgr.24x.edu.pivotal.io:/var/tempest/workspaces/default/deployments/p-jenkins-96b5937d2a4793b9e6d8.yml .
+  454  pwd
+  455  ls -lrt
+  456  cp p-jenkins* downloads
+  457  ls
+  458  cd downloads
+  459  ls
+  460  mv p-jenkins* pcf-immersion-workspace
+  461  pwd
+  462  ls
+  463  ls
+  464  pwd
+  465  cd pcf*work*
+  466  ls
+  467  cd operations
+  468  ls
+  469  mv p-jenkins*.yml jenkins.yml
+  470  ls
+  471  cat jenkins.yml
+  472  ls
+  473  pwd
+  474  h
+  475  history
+  476  ssh keygen -t rsa
+  477  ssh-keygen -t rsa
+  478  pwd
+  479  cd
+  480  ls
+  481  vi .bashrc
+  482  ls -lrt
+  483  bosh
+  484  cd
+  485  pwd
+  486  bosh
+  487  ls
+  488  pwd
+  489  cd Downloads
+  490  ls
+  491  ls -lrt
+  492  ls -lrt Operations
+  493  cf target
+  494  cf logout
+  495  cf target cf login api.24x.edu.pivotal.io
+  496  cf api api.system.24x.edu.pivotal.io
+  497  cf login -a api.system.24x.edu.pivotal.io --skip-ssl-validation
+  498  cf login -a api.system.24x.edu.pivotal.io --skip-ssl-validation
+  499  rdb
+  500  cf apps
+  501  cf org
+  502  cf -help
+  503  pwd
+  504  ls
+  505  ls
+  506  cd Downloads
+  507  ks
+  508  ls
+  509  mkdir scripts
+  510  cd scripts
+  511  ls
+  512  vi setSecGroups.sh
+  513  ls
+  514  vi set*
+  515  ls
+  516  ls
+  517  cd
+  518  vi .profile
+  519  . ./.profile
+  520  ls
+  521  gradle
+  522  curl -i http://localhost:8080/cities
+  523  curl -i localhost:8080/cities?size=5
+  524  pwd
+  525  cd Downloads
+  526  ls
+  527  cd pcf*wo*
+  528  pwd
+  529  ls
+  530  cd cities
+  531  ls
+  532  cd cities-service
+  533  ls
+  534  vi manifest.yml
+  535  ls
+  536  gradle assemble
+  537  cf push
+  538  cf apps
+  539  cf help | user
+  540  cf apps
+  541  cf logout
+  542  cf login -a api.system.24x.edu.pivotal.io --skip-ssl-validation 
+  543  cf push
+  544  cf help | grep -i services
+  545  cf services
+  546  cf env
+  547  cf env ssahadevan-cities-service
+  548  ls
+  549  vi manifest.yml
+  550  cf env ssahadevan-cities-service
+  551  :q
+  552  pwd
+  553  ls
+  554  ls -al build/libs
+  555  history | grep -i build
+  556  ls
+  557  pwd
+  558  cd ..
+  559  ls
+  560  cd cities-ui
+  561  ls
+  562  vi manifest.yml
+  563  gradle assemble
+  564  pwd
+  565  cd ..
+  566  pwd
+  567  gradle assemble
+  568  pwd
+  569  ls
+  570  gradle assemple
+  571  gradle assemble
+  572  cf help | cups
+  573  cf help | grep service
+  574  cf cups
+  575  ls
+  576  cf cups cities-service -p '{"uri" : "ssahadevan-cities-service.apps.24x.edu.pivotal.io", "tag" : "cities"}'
+  577  cf services
+  578  pwd
+  579  cf cups
+  580  cf | grep -i cups
+  581  cf services
+  582  ls
+  583  cd cities-ui
+  584  ls
+  585  cat manifest.yml
+  586  cf apps
+  587  cf logout
+  588  cf login
+  589  pwd
+  590  cf push
+  591  cf logout
+  592  pwd
+  593  cd ..
+  594  cd ..
+  595  ls
+  596  cd operations
+  597  ls
+  598  cf login -a api.system.24x.edu.pivotal.io --skip-ssl-validation –u admin
+  599  history | grep -i security
+  600  cf update-security-group space_security_group ssahadevan-space-security-group.json
+  601  cf update-security-group space_security_group ssahadevan-space-security-groups.json
+  602  pwd
+  603  pwd
+  604  cf restage
+  605  cf apps
+  606  cf lo
+  607  cf login
+  608  cf restage
+  609  cf restage ssahadevan-cities-ui
+  610  history | grep -i cups
+  611  cf apps
+  612  cf cuups ssahadevan-cities-ws -p "tag,uri"
+  613  cfcuups ssahadevan-cities-ws -p "tag,uri"
+  614  cf cuups ssahadevan-cities-ws -p "tag,uri"
+  615  cf uups ssahadevan-cities-ws -p "tag,uri"
+  616  cf uups ssahadevan-cities-ws
+  617  cf unbind-service ssahadevan-cities-ws
+  618  cf unbind-service ssahadevan-cities-ui ssahadevan-cities-ws
+  619  cf uups ssahadevan-cities-ui
+  620  cf services
+  621  cf delete-service ssahadevan-cities-service
+  622  cf services
+  623  cf delete cities-ws
+  624  cf delete-service cities-ws
+  625  cf delete-service cities-service
+  626  ls
+  627  cf cups ssahadevan-cities-ws -p '{"uri" : " http://cities-service.apps.24x.edu.pivotal.io", "tag" : "cities"}'
+  628  cf services
+  629  cf delete-service sahadevan-cities-ws
+  630  cf services
+  631  cf apps
+  632  cf services
+  633  cf logout
+  634  cf login -a api.system.24x.edu.pivotal.io --skip-ssl-validation –u admin
+  635  cf services
+  636  cf delete-service ssahadevan-cities-ws
+  637  cf delete-service sscities
+  638  cf cups ssahadevan-cities-ws -p '{"uri" : " http://cities-service.apps.24x.edu.pivotal.io", "tag" : "cities"}'
+  639  cf services
+  640  cf logout
+  641  cf services
+  642  cf login
+  643  cf services
+  644  pwd
+  645  cd ..
+  646  cd cities
+  647  ls
+  648  cd cities-ui
+  649  ls
+  650  cf push
+  651  pwd
+  652  cf apps
+  653  cf logout
+  654  cf login -a api.system.24x.edu.pivotal.io --skip-ssl-validation –u admin
+  655  pwd
+  656  cf logout
+  657  ls
+  658  pwd
+  659  ls
+  660  cf apps
+  661  cf login
+  662  pwd
+  663  cf push
+  664  pwd
+  665  cf services
+  666  cf unbind-service ssahadevan-cities-ui ssahadevan-cities-ws
+  667  cf uups ssahadevan-cities-ws -p '{"uri" : "http://ssahadevan-cities-service.apps.24x.edu.pivotal.io/cities", "tag" : "cities"}'
+  668  cf unbind-service ssahadevan-cities-ui ssahadevan-cities-ws
+  669  cf bind-service ssahadevan-cities-ui ssahadevan-cities-ws
+  670  cf restage ssahadevan-cities-ui
+  671  cf unbind-service ssahadevan-cities-ui ssahadevan-cities-ws
+  672  cf uups ssahadevan-cities-ws -p '{"uri" : "http://ssahadevan-cities-service.apps.24x.edu.pivotal.io", "tag" : "cities"}'
+  673  cf bind-service ssahadevan-cities-ui ssahadevan-cities-ws
+  674  cf restage ssahadevan-cities-ui
+  675  cf services
+  676  cf cups my-logs -l syslog://logs2.papertrailapp.com:55922
+  677  cf services
+  678  pwd
+  679  cf push
+  680  cf services
+  681  cf bind-service ssahadevan-cities-ui my-logs
+  682  cf cups app-dynamics -p host-name,port,ssl-enabled,account-name,account-access-key
+  683  cf services
+  684  history | grep -i cf-bind
+  685  history | grep -i bind
+  686  cf bind-service ssahadevan-cities-service app-dynamics
+  687  cf restage ssahadevan-cities-service
+  688  cf services
+  689  cf | grep -i security
+  690  cf security-groups
+  691  cf logout
+  692  cf login -a api.system.24x.edu.pivotal.io --skip-ssl-validation –u admin
+  693  cf security-groups
+  694  pwd
+  695  cd ../..
+  696  ls
+  697  cd operations
+  698  ls
+  699  cf update-security-group space_security_group ssahadevan-space-security-groups.json
+  700  cflogout
+  701  cf lo
+  702  cf li
+  703  cf login
+  704  cf apps
+  705  pwd
+  706  ls
+  707  cd ..
+  708  ls
+  709  cd cities
+  710  ls
+  711  cd cities-service
+  712  ls
+  713  cf apps
+  714  cf services
+  715  cf bind ssahadevan-cities-service my-logs
+  716  cf bind-service ssahadevan-cities-service my-logs
+  717  cf restage ssahadevan-cities-service
+  718  cf env
+  719  cf apps
+  720  cf env ssahadevan-cities-service
+  721  history
+  722  history > cmds.txt

@@ -1,0 +1,14 @@
+---
+applications:
+- name: ssahadevan-cities-service
+  memory: 1G
+  instances: 1
+  host: ssahadevan-cities-service
+  path: build/libs/cities-service-0.0.1-SNAPSHOT.jar
+  services:
+   -  ssMySql
+   -  ss-logs
+   -  ss-app-dynamics
+  env: 
+    SPRING_PROFILES_ACTIVE: cloud
+  buildpack: ssahadevan-java-buildpack
