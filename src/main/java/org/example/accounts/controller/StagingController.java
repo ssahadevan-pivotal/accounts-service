@@ -15,4 +15,9 @@ public class StagingController {
 	public String helloWorld() {
 		return "Hello World!";
 	}
+
+        @RequestMapping("/version")
+        public String version() {
+        return "Greetings - SS Version Number= 4!";
+    }
 }

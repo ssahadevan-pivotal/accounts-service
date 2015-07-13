@@ -1,11 +1,13 @@
 ---
 applications:
-- name: esi-accounts-service
-  memory: 1G
+- name: esiAccountsService-4.0
+  memory: 512M
   instances: 1
   path: build/libs/accounts-service-0.0.1-SNAPSHOT.jar
+  buildpack: https://github.com/ssahadevan-pivotal/java-buildpack
   services:
    -  esiTestDbFour
    -  newrelic
+   -  my-logs
   env: 
     SPRING_PROFILES_ACTIVE: cloud
